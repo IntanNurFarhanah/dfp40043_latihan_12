@@ -1,0 +1,22 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a[target] {
+    background-color: yellow;
+  }
+
+div p {
+    background-color: yellow;
+}
+
+p ~ ul {
+    background: #ff0000;
+}
+
+input:checked {
+    height: 50px;
+    width: 50px;
+}
+
+
