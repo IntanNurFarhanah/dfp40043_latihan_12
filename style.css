@@ -2,6 +2,21 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+a[target]{
+    background-color:darksalmon;
+}
+[title~=calmbeach]{
+    border: 25px solid darkred
+}
+
+[title~=calmbeachsecond]{
+    border: 25px solid burlywood
+}
+
+[title~=calmbeachthird]{
+    border: 25px solid darkblue
+}
+
 a[target] {
     background-color: yellow;
   }
